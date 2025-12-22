@@ -78,19 +78,15 @@ for t in range(100):
 ## 📜 Citation
 If you use this code or the theoretical framework in your research, please cite the paper:
 
+```
 @article{bruneteau2025nonlinear,
-
   title={Non-Linear Computational Modeling of Emotional-Like States in Artificial Agents},
-
   author={Bruneteau, Côme},
-
   journal={TOAQ Research},
-
   year={2025},
-
-  url={[https://research.toaq.fr/index/Non-Linear-Computational-Modeling-of-Emotional-Like-States-in-Artificial-Agents](https://research.toaq.fr/index/Non-Linear-Computational-Modeling-of-Emotional-Like-States-in-Artificial-Agents)}
-  
+  url={https://research.toaq.fr/index/Non-Linear-Computational-Modeling-of-Emotional-Like-States-in-Artificial-Agents}
 }
+```
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
