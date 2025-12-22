@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or the associated theoretical framework, please cite it as below."
+authors:
+  - family-names: "Bruneteau"
+    given-names: "Côme"
+    email: "come.bruneteau@toaq.fr"
+    affiliation: "TOAQ"
+title: "Non-Linear Affective Dynamics"
+version: 1.0.0
+date-released: 2025-12-22
+url: "https://github.com/TOAQ-oss/nonlinear-affective-dynamics"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Bruneteau"
+    given-names: "Côme"
+    affiliation: "TOAQ"
+  title: "Non-Linear Computational Modeling of Emotional-Like States in Artificial Agents"
+  year: 2025
+  month: 12
+  url: "https://research.toaq.fr/index/Non-Linear-Computational-Modeling-of-Emotional-Like-States-in-Artificial-Agents"
+3. Petit bonus : Le fichier LICENSE
+Je vous recommande d'ajouter un fichier nommé LICENSE avec le texte standard MIT. C'est le standard pour la recherche ouverte ("Open Science") et cela rassure les entreprises qui voudraient utiliser votre code.
