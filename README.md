@@ -31,7 +31,7 @@ The codebase is modular and designed for easy integration:
 ### Installation
 
 ```bash
-git clone [https://github.com/TOAQ/nonlinear-affective-dynamics.git](https://github.com/TOAQ/nonlinear-affective-dynamics.git)
+git clone https://github.com/TOAQ-oss/nonlinear-affective-dynamics.git
 cd nonlinear-affective-dynamics
 pip install -r requirements.txt
 ```
@@ -78,14 +78,18 @@ for t in range(100):
 ## 📜 Citation
 If you use this code or the theoretical framework in your research, please cite the paper:
 
-Extrait de code
-
 @article{bruneteau2025nonlinear,
+
   title={Non-Linear Computational Modeling of Emotional-Like States in Artificial Agents},
+
   author={Bruneteau, Côme},
+
   journal={TOAQ Research},
+
   year={2025},
+
   url={[https://research.toaq.fr/index/Non-Linear-Computational-Modeling-of-Emotional-Like-States-in-Artificial-Agents](https://research.toaq.fr/index/Non-Linear-Computational-Modeling-of-Emotional-Like-States-in-Artificial-Agents)}
+  
 }
 
 ## 📄 License
