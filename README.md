@@ -84,7 +84,7 @@ If you use this code or the theoretical framework in your research, please cite 
   author={Bruneteau, Côme},
   journal={TOAQ Research},
   year={2025},
-  url={https://research.toaq.fr/index/Non-Linear-Computational-Modeling-of-Emotional-Like-States-in-Artificial-Agents}
+  url={https://toaq.fr/research/non-linear-computational-modeling-of-emotional-like-states-in-artificial-agents}
 }
 ```
 
